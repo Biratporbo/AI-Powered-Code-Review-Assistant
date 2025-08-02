@@ -36,5 +36,6 @@ A web application that uses AI to analyze code quality, detect issues, and provi
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Biratporbo/ai-code-reviewer.git
+   git clone https://github.com/Biratporbo/AI-Powered-Code-Review-Assistant
+
    cd ai-code-reviewer
